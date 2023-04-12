@@ -121,10 +121,10 @@ class IgUser {
         'https://images.unsplash.com/photo-1598137203988-80de6392fc1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80',
       ],
       typeUser: "Photographer");
-  static const kevin = IgUser(
-      name: 'Kevin Melendez',
+  static const rodrigo = IgUser(
+      name: 'rodrigo bak',
       followers: 14200,
-      username: 'kevin_mdez_hdez',
+      username: 'rodrigo_mdez_hdez',
       collections: IgCollection.listCollection,
       following: 47,
       photoUrl: 'https://i.ibb.co/c1j1VDT/yo.jpg',
@@ -156,7 +156,7 @@ class IgUser {
   static const users = [
     liliana,
     julissa,
-    kevin,
+    rodrigo,
     eduard,
     maria,
     karla,

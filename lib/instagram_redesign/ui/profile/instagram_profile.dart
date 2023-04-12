@@ -10,7 +10,7 @@ class InstagramProfile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final currentUser = IgUser.kevin;
+    final currentUser = IgUser.rodrigo;
     final instagramBloc = InstagramBlocProvider.of(context)!.instagramBloc;
 
     return Scaffold(

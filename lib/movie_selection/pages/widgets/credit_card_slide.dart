@@ -103,7 +103,7 @@ class CreditCardWidget extends StatelessWidget {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: <Widget>[
-              Text("Kevin Melendez Hernandez".toUpperCase(),
+              Text("rodrigo bak Hernandez".toUpperCase(),
                   maxLines: 1,
                   style: GoogleFonts.barlowCondensed(
                       color: Colors.white70, fontSize: size.height * .018)),

@@ -40,7 +40,7 @@ class IgActivity {
         isViewed: false),
   );
 
-  static final _listImagesUrl = IgUser.kevin.listPhotosUrl;
+  static final _listImagesUrl = IgUser.rodrigo.listPhotosUrl;
   static final _dates = [
     DateTime.now().subtract(Duration(minutes: 1)),
     DateTime.now().subtract(Duration(minutes: 20)),

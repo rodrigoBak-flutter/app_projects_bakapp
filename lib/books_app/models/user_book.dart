@@ -6,7 +6,7 @@ class UserBook {
   const UserBook({required this.name,required this.photoUrl, this.favoriteCategories});
 
   static const currentUser = UserBook(
-    name: 'Kevin',
+    name: 'rodrigo',
     photoUrl:
         'https://i.ibb.co/992SLrQ/120603136-2461308150844778-7380402767182275816-n.jpg',
     favoriteCategories: [

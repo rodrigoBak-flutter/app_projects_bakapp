@@ -17,11 +17,11 @@ class PhotoPost {
 
   static final listHomePost = [
     PhotoPost(
-      user: PhotoUser.kevin,
+      user: PhotoUser.rodrigo,
       likes: 1220,
       comments: 229,
       isLiked: false,
-      photoPost: PhotoUser.kevin.listPhotosUrl.first,
+      photoPost: PhotoUser.rodrigo.listPhotosUrl.first,
     ),
     PhotoPost(
       user: PhotoUser.maria,
@@ -45,11 +45,11 @@ class PhotoPost {
       photoPost: PhotoUser.eduard.listPhotosUrl.first,
     ),
     PhotoPost(
-      user: PhotoUser.kevin,
+      user: PhotoUser.rodrigo,
       likes: 1220,
       comments: 229,
       isLiked: false,
-      photoPost: PhotoUser.kevin.listPhotosUrl[1],
+      photoPost: PhotoUser.rodrigo.listPhotosUrl[1],
     ),
   ];
 }

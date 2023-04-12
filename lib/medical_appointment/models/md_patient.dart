@@ -25,13 +25,13 @@ class MedicalPatient {
   });
 
   static final currentPatient = MedicalPatient(
-    name: 'Kevin',
-    lastName: 'Melendez',
-    email: 'kevinmdezhdez@gmail.com',
+    name: 'rodrigo',
+    lastName: 'bak',
+    email: 'rodrigosebastianbak@hotmail.com',
     photoUrl: 'https://images.unsplash.com/photo-1480455624313-e29b44bbfde1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjF8fG1lbnxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=500&q=60',
     appointmentHistory: MedicalAppointment.listAppointment,
     nextAppointment: MedicalAppointment.nextAppointment,
-    phone: '+52741137588',
+    phone: '+34617154892',
     medicalChecks: [
       MedicalCheck(check: TypeCheck.Weight, value: 149.7),
       MedicalCheck(check: TypeCheck.Height, value: 170.7),

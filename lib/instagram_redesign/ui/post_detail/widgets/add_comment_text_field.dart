@@ -21,7 +21,7 @@ class AddCommentTextField extends StatelessWidget {
             padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
             child: RoundedBorderImage(
               height: 50,
-              imageUrl: IgUser.kevin.photoUrl,
+              imageUrl: IgUser.rodrigo.photoUrl,
               borderColor: Colors.transparent,
             ),
           ),
