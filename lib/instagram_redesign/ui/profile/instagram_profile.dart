@@ -132,7 +132,7 @@ class InstagramProfile extends StatelessWidget {
                     style: GoogleFonts.lato(color: Colors.grey),
                     children: [
                       TextSpan(
-                          text: " @brocodev",
+                          text: " @rodrigoBak-flutter",
                           style: TextStyle(
                               color: Colors.blueAccent,
                               fontWeight: FontWeight.bold))
