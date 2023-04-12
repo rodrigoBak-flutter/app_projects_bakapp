@@ -70,7 +70,7 @@ class TicketPage extends StatelessWidget {
                                 color: kPrimaryColorDark,
                                 fontWeight: FontWeight.w500,
                                 letterSpacing: 0,
-                                fontSize: size.height * .04,
+                                fontSize: size.height * .03,
                               ),
                             ),
                             const SizedBox(height: 25),
